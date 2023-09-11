@@ -1,0 +1,13 @@
+roboflow:
+license: CC BY 4.0
+project: aquarium-ck0at
+url: https://universe.roboflow.com/sharan-shankar-folzo/aquarium-ck0at/dataset/1
+version: 1
+workspace: sharan-shankar-folzo
+
+names: [0,1,2,3,4,5,6]
+nc: 7
+
+train: /kaggle/working/Aquarium-1/train/images
+val: /kaggle/working/Aquarium-1/valid/images
+test: /kaggle/working/Aquarium-1/test/images
